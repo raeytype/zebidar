@@ -16,7 +16,7 @@ In the ዘቢዳር 2020 typeface changes are made to glyphs to support the Gura
 ## ዘቢዳር 1982
 The ዘቢዳር 1982 typeface was developed for the 1982 publication of the New Testament in Gurage language by the Ethiopian Bible Society. The translation effort begun in 1979 which may also be the age of the orthography.
 
-The first Gurage novel, የጫሙት ሽካ (Yetʃʼamut ʃɨka) published in 1987 by author Gebreyesus Hailemariam also applied the typeface.
+The first Gurage novel, የጫሙት ሽካ, published in 1987 by author Gebreyesus Hailemariam also applied the typeface.
 
 ## ዘቢዳር 1966
 The ዘቢዳር 1966 typeface features 44 additional letters found in the 1966 publication “Ethiopians Speak Volume 2: Chaha” by Wolf Leslau and Sahle Selassie Wolde Mariam.
