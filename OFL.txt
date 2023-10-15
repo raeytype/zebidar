@@ -1,4 +1,9 @@
-This Font Software is Copyright (c) 2000-2019, SIL International (http://scripts.sil.org/)
+This Font Software is Copyright (c) 2019, Raʾey Type Foundry (https://github.com/raeytype),
+with Reserved Font Names "Zebidar" and "Zebidar Regular".
+
+This font inherits the OFL license from the "Abyssinica SIL" typeface which declares:
+
+This Font Software is Copyright (c) 2000-2021, SIL International (http://scripts.sil.org/)
 with Reserved Font Names "Abyssinica" and "SIL".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
